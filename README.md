@@ -1,3 +1,5 @@
+Origin: https://www.codewars.com/kata/585894545a8a07255e0002f1/train/java
+
 Solution for the next task. Solution is a bit wider (You cn choose the size of field, not only 3*3):
 
 Screen Locking Patterns
