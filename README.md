@@ -5,7 +5,7 @@ You might already be familiar with many smartphones that allow you to use a geom
 
 The image below has an example pattern of 7 dots/points: (A -> B -> I -> E -> D -> G -> C).
 
-![alt text](https://https://github.com/Xsergserg/ScreenLocker/blob/master/zmPNYdv.png?raw=true)
+![zmPNYdv](https://user-images.githubusercontent.com/50032887/195524808-c18c6efa-a398-45d8-bc94-27cc05748af5.png)
 
 For this kata, your job is to implement a function that returns the number of possible patterns starting from a given first point, that have a given length.
 
